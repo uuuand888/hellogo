@@ -3,5 +3,5 @@ package hellogo
 import "fmt"
 
 func ShowHello() {
-    fmt.Println("hello, show!")
+    fmt.Println("hello, showxxxxx!")
 }
