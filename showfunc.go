@@ -1,4 +1,4 @@
-package showfunc
+package hellogo
 
 import "fmt"
 
